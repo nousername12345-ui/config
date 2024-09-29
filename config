@@ -1,0 +1,5 @@
+warp://188.114.98.114:1010?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#config1
+warp://188.114.96.252:946?ifp=5-10&ifps=40-80&ifpd=20-40&ifpm=m4#config2
+warp://162.159.195.156:946?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#config3
+warp://188.114.96.194:946?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#config4
+warp://162.159.192.123:946?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#config5
