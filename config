@@ -5,3 +5,4 @@ warp://188.114.98.119:1074?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#config4
 warp://162.159.195.74:890?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#config5
 warp://188.114.98.80:1074?ifp=2-6&ifps=80-100&ifpd=40-70&ifpm=m4#config6
 warp://162.159.195.87:1074?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#config7
+#warp://188.114.97.72:890?ifp=5-10&ifps=40-100&ifpd=10-20#config8
